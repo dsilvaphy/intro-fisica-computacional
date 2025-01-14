@@ -1,4 +1,4 @@
-# 📘 ** Introdução à Física Computacional com Python** ⚛️
+# 📘 **Introdução à Física Computacional com Python** ⚛️
 
 Bem-vindo(a) ao repositório **Física Computacional com Python**!  
 Este repositório foi criado para ajudar estudantes e entusiastas a aprenderem conceitos de Física Computacional utilizando a linguagem Python de forma prática e interativa.  
